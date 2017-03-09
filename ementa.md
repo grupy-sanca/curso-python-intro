@@ -2,20 +2,20 @@ Ementa
 ======
 
 - [ ] Introdução
-  - grupy-sanca / apresentações
+  - grupy-sanca/Apresentações
   - O que é python
   - Para o que é usada
-  - Empresas / sistemas que utilizam
+  - Empresas/sistemas que utilizam
   - Exemplo de aplicações
 - [ ] Algoritmos
   - Conceitos
   - Exemplos
 - [ ] Instalação
   - Preparar tutorial e oferecer antes
-  - Ensinar a abrir o idle
+  - Ensinar a abrir o IDLE
 - [x] Olá Mundo (Um clássico da programação ☺)
   - Comparar com hello world de Java/C
-  - Hello world com input/print
+  - Hello world com `input`/`print`
 - [x] Operadores aritméticos (python como uma calculadora)
   - Explicar o interpretador do python
   - Soma, subtração, multiplicação, divisão
@@ -51,7 +51,7 @@ Ementa
     - `str.find()`
     - `str.replace()`
   - Listas:
-    - Como criar [1, 2, 3]
+    - Como criar `[1, 2, 3]`
     - Acesso/slicing
   - Problemas
 - [ ] Condicionais
