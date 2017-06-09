@@ -1,69 +1,65 @@
 Ementa
 ======
 
-- [ ] Introdução
+=== Manhã ===
+
+- [X] Introdução
   - grupy-sanca/Apresentações
   - O que é python
-  - Para o que é usada
+  - Para o que é usado
   - Empresas/sistemas que utilizam
   - Exemplo de aplicações
-- [ ] Algoritmos
-  - Conceitos
-  - Exemplos
 - [ ] Instalação
   - Preparar tutorial e oferecer antes
   - Ensinar a abrir o IDLE
 - [x] Olá Mundo (Um clássico da programação ☺)
-  - Comparar com hello world de Java/C
+  - Comparar com hello world de Java, C etc
   - Hello world com `input`/`print`
 - [x] Operadores aritméticos (python como uma calculadora)
   - Explicar o interpretador do python
   - Soma, subtração, multiplicação, divisão
   - Potenciação,
   - Expressões numéricas
-  - Probleminha: lista de compras, dividir pelos integrantes da república
-    - Você e os outros integrantes da sua república (Joca, Moacir, Demival e Jackson) foram no supermercado e compraram alguns itens:
-      - 75 latas de cerveja: R$ 2,20 cada (da ruim ainda, a.k.a. Itaipava)
-      - 2 pacotes de macarrão: R$ 8,73 cada
-      - 1 pacote de Molho de tomate: R$ 3,45
-      - 420g Cebola: R$ 5,40/kg
-      - 250g de Alho: R$ 30,00/kg
-      - 450g de pães franceses: R$ 25,00/kg
-    - Calcule quanto ficou para cada um.
-- [ ] Variáveis
+  - Exercícios
+- [X] Variáveis
   - O que é
   - Como usar (incluir exemplo de variável não declarada)
   - Exemplos com tipos básicos
   - `type()`
-- [ ] Tipos básicos
+- [X] Tipos básicos
   - `int` (Classe de Inteiros do Python)
   - `float` (Classe de Números decimais do Python)
   - `str` (Classe de strings em Python)
   - `len()`
-  - índices
-  - slices
+  - Índices
+  - Fatias (slices)
   - `help()`
-  - métodos de strings:
-    - `str.upper()`
-    - `str.lower()`
-    - `str.capitalize()`
-    - `str.title()`
-    - `str.find()`
-    - `str.replace()`
-  - Listas:
+  - Exercícios
+  - Formatação de strings
+  - Atribuição múltipla
+  - Exercícios
+
+=== Tarde ===
+
+  - [X] Listas:
     - Como criar `[1, 2, 3]`
     - Acesso/slicing
-  - Problemas
-- [ ] Condicionais
-  - `if`, `elif` e `else`
-  - Tabulação recomendada
-  - Booleanos
-  - Operações com booleanos
-  - Problemas 
-- [ ] Loops    
-  - `range`
-  - Probleminha: 
+    - Remover itens
+    - Operação com lista
+    - Métodos
+    - Range
+    - Input
+  - [X] Condicionais
+    - `if`, `elif` e `else`
+    - Tabulação recomendada
+    - Booleanos
+    - Operações com booleanos
+    - Exercícios
+  - [X] Estruturas de Repetição (Loops)
+    - `range`
+    - Probleminha
     - Imprima a tabuada do 3, de 0 a 10
     - Dada uma lista de números, imprima somente os pares
-- [ ] Funções
-  - Problemas
+  - [X] Funções
+    - Com e sem argumentos
+    - Problemas
